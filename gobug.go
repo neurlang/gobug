@@ -1,5 +1,7 @@
 package gobug
 
-func Foo() {
+import "github.com/neurlang/gobug/submodule"
 
+func Foo() {
+  submodule.Bar()
 }
