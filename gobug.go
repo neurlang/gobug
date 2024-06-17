@@ -1,0 +1,5 @@
+package gobug
+
+func Foo() {
+
+}
