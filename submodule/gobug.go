@@ -1,0 +1,5 @@
+package submodule
+
+func Bar() {
+  
+}
